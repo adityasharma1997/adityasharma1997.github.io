@@ -27,7 +27,7 @@
     background-color: #d7d4d4;
 }
 .tabContainer .tabPanel{
-    height: 140%;
+    height: 130%;
     background-color: rgb(255, 241, 243);
     color: white;
     text-align: center;
@@ -40,7 +40,7 @@
 
 #my-image{
     height: 25%;
-    width: 15%;
+    width: 20%;
     border-radius: 70%;
 }
 table {
